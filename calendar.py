@@ -33,9 +33,9 @@ def main():
   predicate = store.predicateForEventsWithStartDate_endDate_calendars_(date1, date2, calendars_array)
   events = store.eventsMatchingPredicate_(predicate)
   for event in events:
-    print(event.title())
+    print(event.title)
 		
-  store.autorelease()
+  
 	
 
 
