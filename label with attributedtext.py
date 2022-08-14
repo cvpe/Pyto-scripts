@@ -3,7 +3,6 @@
 # https://github.com/khilnani/pythonista-scripts/blob/master/thirdparty/ObjC%20Tools/Jsbain-objc_hacks/attribtxt.py
 
 from rubicon.objc import *
-import ctypes
 
 NSMutableAttributedString=ObjCClass('NSMutableAttributedString')
 NSFontAttributeName = 'NSFont'
