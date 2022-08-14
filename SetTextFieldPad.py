@@ -1,6 +1,5 @@
 import pyto_ui as ui
 from math import cos,sin,pi
-from random import random
 from UIKit import *
 #from rubicon.objc import *
 
