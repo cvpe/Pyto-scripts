@@ -1,6 +1,5 @@
 # based on Pythonista example https://gist.github.com/omz/451a6685fddcf8ccdfc5
 from rubicon.objc import *
-from ctypes import *
 import pyto_ui as ui
 import mainthread
 import location
